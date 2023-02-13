@@ -14,6 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=clcl777&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=clcl777&theme=default)
